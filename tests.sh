@@ -1,0 +1,1 @@
+g++ -Wall -g -pthread src/tests.cpp src/MPointer.h src/MPointerGC.cpp src/ListaDoblementeEnlazada.h -lgtest_main -lgtest -lpthread && clear && ./a.out  && rm ./a.out

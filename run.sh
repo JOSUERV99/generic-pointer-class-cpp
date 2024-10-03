@@ -1,0 +1,1 @@
+g++ src/main.cpp src/MPointerGC.cpp -lpthread && clear && ./a.out  && rm ./a.out
